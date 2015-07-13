@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "name": "senhorpe",
+        "manifest": {
+            "version": "v1"
+        }
+    },
+    "sources": [
+        {
+            "id": "lu2Vk49hYm8",
+            "title": "Seu Pé - Copa Aleixo - Teaser",
+            "length": 21,
+            "dateDownloaded": "2015-07-13T22:52:19.186Z",
+            "size": 256527,
+            "path": "./sources/lu2Vk49hYm8.webm"
+        }
+    ],
+    "sounds": [
+        {
+            "id": "000001",
+            "version": 1,
+            "sourceID": "lu2Vk49hYm8",
+            "paths": {
+                "mp3": "./sounds/000001.mp3",
+                "ogg": "./sounds/000001.ogg"
+            },
+            "startsAt": 0,
+            "length": 6,
+            "text": "Verdade, competência, fé evangélica",
+            "dateAdded": "2015-07-13T22:53:33.687Z",
+            "disabled": false
+        }
+    ]
+}
