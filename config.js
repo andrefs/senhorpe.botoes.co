@@ -2,7 +2,7 @@ exports.config = {
     project:{
         title         : 'Botões Senhor Pé',
         description   : 'As melhores frases de Senhor Pé!',
-        url           : 'http://bussaco.botoes.co',
+        url           : 'http://senhorpe.botoes.co',
         external_link : 'http://www.facebook.com/brunoaleixo',
         facebook: {
             id: "1016048086"
