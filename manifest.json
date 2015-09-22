@@ -13,6 +13,14 @@
             "dateDownloaded": "2015-07-13T22:52:19.186Z",
             "size": 256527,
             "path": "./sources/lu2Vk49hYm8.webm"
+        },
+        {
+            "id": "fU_NGx-X-JA",
+            "title": "Brasil - Grupo A - Copa Aleixo",
+            "length": 485,
+            "dateDownloaded": "2015-09-22T16:03:21.920Z",
+            "size": 4731705,
+            "path": "./sources/fU_NGx-X-JA.webm"
         }
     ],
     "sounds": [
@@ -28,6 +36,34 @@
             "length": 6,
             "text": "Verdade, competência, fé evangélica",
             "dateAdded": "2015-07-13T22:53:33.687Z",
+            "disabled": false
+        },
+        {
+            "id": "000002",
+            "version": 1,
+            "sourceID": "fU_NGx-X-JA",
+            "paths": {
+                "mp3": "./sounds/000002.mp3",
+                "ogg": "./sounds/000002.ogg"
+            },
+            "startsAt": 233,
+            "length": 2,
+            "text": "Froxo froxo froxo",
+            "dateAdded": "2015-09-22T16:06:05.931Z",
+            "disabled": false
+        },
+        {
+            "id": "000003",
+            "version": 1,
+            "sourceID": "fU_NGx-X-JA",
+            "paths": {
+                "mp3": "./sounds/000003.mp3",
+                "ogg": "./sounds/000003.ogg"
+            },
+            "startsAt": 252,
+            "length": 4,
+            "text": "Então eu paguei um drink pra ela, e a gente acabou transando no banheiro",
+            "dateAdded": "2015-09-22T16:07:47.332Z",
             "disabled": false
         }
     ]
