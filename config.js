@@ -24,6 +24,21 @@ exports.config = {
     tmpPath           : './tmp',
     defaultClipMargin : '2',
     soundEditCommand  : 'audacity',
+    toplinks: [
+        {
+            link: 'http://aleixo.botoes.co',
+            title: 'Aleixo'
+        },{
+            link: 'http://renato.botoes.co',
+            title: 'Renato'
+        },{
+            link: 'http://bussaco.botoes.co',
+            title: 'Bussaco'
+        },{
+            link: 'http://beatriz.botoes.co',
+            title: 'Beatriz'
+        }
+    ],
     server: {
         port: 10117
     }
