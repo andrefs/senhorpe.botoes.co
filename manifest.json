@@ -65,6 +65,62 @@
             "text": "Então eu paguei um drink pra ela, e a gente acabou transando no banheiro",
             "dateAdded": "2015-09-22T16:07:47.332Z",
             "disabled": false
+        },
+        {
+            "id": "000004",
+            "version": 1,
+            "sourceID": "fU_NGx-X-JA",
+            "paths": {
+                "mp3": "./sounds/000004.mp3",
+                "ogg": "./sounds/000004.ogg"
+            },
+            "startsAt": 172,
+            "length": 3,
+            "text": "Loira, bem alta, cansada",
+            "dateAdded": "2015-09-22T16:32:22.383Z",
+            "disabled": false
+        },
+        {
+            "id": "000005",
+            "version": 1,
+            "sourceID": "fU_NGx-X-JA",
+            "paths": {
+                "mp3": "./sounds/000005.mp3",
+                "ogg": "./sounds/000005.ogg"
+            },
+            "startsAt": 177,
+            "length": 1,
+            "text": "Claro, né?",
+            "dateAdded": "2015-09-22T16:33:16.849Z",
+            "disabled": false
+        },
+        {
+            "id": "000006",
+            "version": 1,
+            "sourceID": "fU_NGx-X-JA",
+            "paths": {
+                "mp3": "./sounds/000006.mp3",
+                "ogg": "./sounds/000006.ogg"
+            },
+            "startsAt": 213,
+            "length": 2,
+            "text": "Que a mulherada também fica carente, né?",
+            "dateAdded": "2015-09-22T16:42:21.312Z",
+            "disabled": false
+        },
+        {
+            "id": "000007",
+            "version": 1,
+            "sourceID": "fU_NGx-X-JA",
+            "paths": {
+                "mp3": "./sounds/000007.mp3",
+                "ogg": "./sounds/000007.ogg"
+            },
+            "startsAt": 397,
+            "length": 2,
+            "text": "Isso foi ironia Sr. Busto?",
+            "dateAdded": "2015-09-22T16:47:19.720Z",
+            "disabled": false
         }
     ]
 }
